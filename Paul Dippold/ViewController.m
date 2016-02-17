@@ -67,6 +67,7 @@
     button1.hidden = NO;
     drag.hidden = YES;
     [drag stopAnimating];
+
 }
 
 -(NSInteger )numberOfSectionsInCollectionView:(UICollectionView *)collectionView {
